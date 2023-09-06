@@ -11,7 +11,7 @@
 ### Lista de Estúdios Brasileiros
 
 |        Estúdio        |      Cidade    | Estado |                       Site                       |
-|:---------------------:|:--------------:|:------:|:------------------------------------------------:|
+|:----------------------|:---------------|:------:|:-------------------------------------------------|
 | Aquiris Game Studio   | Porto Alegre   |   RS   | [Aquiris](https://www.aquiris.com.br/)            |
 | Behold Studios        | Brasília       |   DF   | [Behold](https://www.beholdstudios.com.br/)       |
 | Double Dash Studios   | Rio de Janeiro |   RJ   | [Double Dash](https://www.doubledashstudios.com/) |
