@@ -8,6 +8,8 @@
 
 <!-- A B C D E F G H I J K L M N O P Q R S T U V W X Y Z -->
 
+<div align="center">
+
 ### Lista de Estúdios Brasileiros
 
 | Índice |        Estúdio        |         Cidade       | Estado |                   Site                   |
@@ -44,3 +46,5 @@
 |   30   | Tapps Games           | São Paulo            |   SP   | [Tapps](tappsgames.com)                  |
 |   31   | Wildlife Studios      | São Paulo            |   SP   | [Wildlife](wildlifestudios.com)          |
 |   32   | Yellow Panda          | Balneáreo Camburiú   |   SC   | [Yellow Panda](www.yellowpanda.games)    |
+
+</div>
