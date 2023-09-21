@@ -65,6 +65,8 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 
 </div>
 
+---
+
 ## Confira também:
 
 * Estúdios de outras regiões:
