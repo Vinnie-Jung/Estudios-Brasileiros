@@ -10,9 +10,9 @@
 
 ## Sobre:
 
-Existem diversos estúdios de jogos e entretenimento espalhados pelo território brasileiro. A maioria desses estúdios compõem a categoria independente, com equipes menores e projetos de menor orçamento. Apesar de tal característica, os estúdios brasileiros vêm se destacando nos últimos anos pelo desenvolvimento de títulos originais e inovadores, além de ter participações relevantes no cenário global.
+Existem diversos estúdios de jogos e entretenimento espalhados pelo território brasileiro. A maioria desses estúdios compõem a categoria independente, com equipes menores e projetos de orçamento baixo. Apesar de tal característica, os estúdios brasileiros vêm se destacando nos últimos anos pelo desenvolvimento de títulos originais e inovadores, além de terem participações relevantes no cenário global.
 
-É importante ressaltar que o mercado de jogos no brasil ainda é muito novo, porém possui grandes projeções para o futuro. O aumento das participações de estúdios e desenvolvedores em eventos tem contribuído com o desenvolvimento do networking entre os profissionais, resultando assim em uma evolução cada vez maior do mercado e mais parcerias na área.
+É importante ressaltar que o mercado de jogos no Brasil ainda é muito novo, porém possui grandes projeções para o futuro. O aumento das participações de estúdios e desenvolvedores em eventos tem contribuído com o desenvolvimento do *networking* entre os profissionais, resultando assim em uma evolução cada vez maior do mercado e mais parcerias na área.
 
 <div align="center">
 
