@@ -94,6 +94,6 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 
 ## Contribuidores
 
-[Vinícius Jung](github.com/Vinnie-Jung)
+[Vinícius Jung](https://github.com/Vinnie-Jung)
 
 </div>
