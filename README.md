@@ -19,9 +19,9 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 
 É importante ressaltar que o mercado de jogos no Brasil ainda é muito novo, porém possui grandes projeções para o futuro. O aumento das participações de estúdios e desenvolvedores em eventos tem contribuído com o desenvolvimento do *networking* entre os profissionais, resultando assim em uma evolução cada vez maior do mercado e mais parcerias na área.
 
-</div>
+</p>
 
-<p align="center">
+<div align="center">
 
 ---
 
