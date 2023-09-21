@@ -56,3 +56,23 @@
 |   40   | Yellow Panda          | Balneáreo Camburiú   |   SC   | [Yellow Panda](www.yellowpanda.games)    |
 
 </div>
+
+## Confira também:
+
+* Estúdios de outras regiões:
+    * [Estúdios Asiáticos](pt-br/regiões/estúdios-asiáticos.md)
+    * [Estúdios Europeus](pt-br/regiões/estúdios-europeus.md)
+    * [Estúdios Norte-Americanos](pt-br/regiões/estúdios-norte_americanos.md)
+
+* Áreas populares do desenvolvimento de games:
+    * [Áreas de atuação](pt-br/áreas/áreas-de-atuação.md)
+
+* Médias de salários por áreas:
+    * [América do Norte](pt-br/salários/américa-do-norte.md)
+    * [Ásia](pt-br/salários/ásia.md)
+    * [Brasil](pt-br/salários/brasil.md)
+    * [Europa](pt-br/salários/europa.md)
+
+## Contribuidores:
+
+* Vinícius Jung
