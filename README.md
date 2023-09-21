@@ -16,6 +16,8 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 
 <div align="center">
 
+---
+
 ### Lista de Estúdios Brasileiros
 
 | Índice |        Estúdio        |         Cidade       | Estado |                   Site                   |
