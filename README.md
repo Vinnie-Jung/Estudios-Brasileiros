@@ -73,6 +73,10 @@
     * [Brasil](pt-br/salários/brasil.md)
     * [Europa](pt-br/salários/europa.md)
 
-## Contribuidores:
+<div align="center">
 
-* Vinícius Jung
+## Contribuidores
+
+[Vinícius Jung](github.com/Vinnie-Jung)
+
+</div>
