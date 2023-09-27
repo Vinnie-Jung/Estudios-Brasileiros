@@ -9,6 +9,3 @@ Média de salários por nível e área no mercado de jogos.
 
 ## Disponível em breve
 </div>
-
-
-
