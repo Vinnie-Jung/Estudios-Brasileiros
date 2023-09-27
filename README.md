@@ -9,12 +9,12 @@
 
 <p text-align="justify">
 
-Existem diversos estúdios de jogos e entretenimento espalhados pelo território brasileiro. A maioria desses estúdios compõem a categoria independente, com equipes menores e projetos de orçamento baixo. Apesar de tal característica, os estúdios brasileiros vêm se destacando nos últimos anos pelo desenvolvimento de títulos originais e inovadores, além de terem participações relevantes no cenário global.
+Existem diversos estúdios de jogos e entretenimento espalhados pelo território brasileiro. A maioria desses estúdios são caracterizados pelo desenvolvimento independente, com equipes menores e projetos de orçamento reduzido. Apesar de tal característica, os estúdios brasileiros vêm se destacando nos últimos anos pelo desenvolvimento de títulos originais e inovadores, além de terem participações relevantes no cenário global.
 
 </p>
 <p text-align="justify">
 
-É importante ressaltar que o mercado de jogos no Brasil ainda é muito novo, porém possui grandes projeções para o futuro. O aumento das participações de estúdios e desenvolvedores em eventos tem contribuído com o desenvolvimento do *networking* entre os profissionais, resultando assim em uma evolução cada vez maior do mercado e mais parcerias na área.
+É importante ressaltar que o mercado de jogos no Brasil ainda é emergente, possuindo grandes projeções para o futuro. O aumento das participações de estúdios e desenvolvedores em eventos tem contribuído com o desenvolvimento do *networking* entre os profissionais, resultando assim em uma evolução cada vez maior do mercado e mais parcerias na área.
 
 </p>
 
@@ -32,6 +32,7 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 |   04   | Aoca Game Lab           | Salvador             |   BA   | [Aoca](aocagamelab.games)                         |
 |   05   | Asantee Games           | Campo Grande         |   MS   | [Asantee](asanteegames.com.br)                    |
 |   06   | Behold Studios          | Brasília             |   DF   | [Behold](www.beholdstudios.com.br)                |
+|   07   | Big Green Pillow        | São Paulo            |   SP   | [Big Green Pillow](http://www.biggreenpillow.com) |
 |   07   | Big Moxi Games          | Porto Alegre         |   RS   | [Big Moxi](www.bigmoxi.com)                       |
 |   08   | BitCake Studio          | Rio de Janeiro       |   RJ   | [BitCake](www.bitcake.studio)                     |
 |   09   | Black River Studios     | Manaus               |   AM   | [Black River](blackriverstudios.net)              |
@@ -43,7 +44,9 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 |   15   | Digital Synapsis        | São José dos Campos  |   SP   | [Digital Synapsis](digitalsynapsis.com.br)        |
 |   16   | Diorama Digital         | Recife               |   PE   | [Diorama](www.dioramadigital.com)                 |
 |   17   | Double Dash Studios     | Rio de Janeiro       |   RJ   | [Double Dash](www.doubledashstudios.com)          |
+|   18   | Dumativa                | Rio de Janeiro       |   RJ   | [Dumativa](http://www.dumativa.com.br)            |
 |   18   | DX Gameworks            | Manaus               |   AM   | [DX](dxgameworks.com)                             |
+|   18   | Dyxel Gaming            | São Paulo            |   SP   | [Dyxel](https://linktr.ee/dyxel)                             |
 |   19   | Epopeia Games           | Porto Alegre         |   RS   | [Epopeia](www.epopeiagames.com)                   |
 |   20   | Fanatee                 | São Paulo            |   SP   | [Fanatee](www.fanatee.com)                        |
 |   21   | Fire Horse Studio       | São Paulo            |   SP   | [Fire Horse](www.firehorse.com.br)                |
@@ -64,10 +67,12 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 |   36   | Level Up Latam          | São Paulo            |   SP   | [LevelUp](leveluplatam.com)                       |
 |   37   | Long Hat House          | Belo Horizonte       |   MG   | [Long Hat](longhathouse.com)                      |
 |   38   | Lumen Games             | Aracajú              |   SE   | [Lumen](lumen.games)                              |
+|   38   | Luski Game Studio       | São Paulo            |   SP   | [Luski](www.luskigamestudio.com)                              |
 |   39   | Mad Mimic Interactive   | São Paulo            |   SP   | [Mad Mimic](www.madmimic.com)                     |
 |   40   | Manifesto Games         | Recife               |   PE   | [Manifesto](manifestogames.com)                   |
 |   41   | MNSTR Studio            | São Paulo            |   SP   | [MNSTR](www.mnstrstudio.com)                      |
 |   42   | Monomyto Studio         | Campo Grande         |   MS   | [Monomyto](www.monomyto.com)                      |
+|   42   | Nano Knight Studio      | São Paulo            |   SP   | [Nano Knight](https://www.nanoknight.com.br)                      |
 |   43   | Oktagon Games           | Londrina             |   PR   | [Oktagon](www.oktagon.com.br)                     |
 |   44   | Orbit Studio            | São Paulo            |   SP   | [Orbit](orbitstudio.com.br)                       |
 |   45   | Orube Game Studio       | Niterói              |   RJ   | [Orube](www.orubegamestudio.com/website)          |
