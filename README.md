@@ -33,69 +33,79 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 |   05   | Asantee Games           | Campo Grande         |   MS   | [Asantee](asanteegames.com.br)                    |
 |   06   | Behold Studios          | Brasília             |   DF   | [Behold](www.beholdstudios.com.br)                |
 |   07   | Big Green Pillow        | São Paulo            |   SP   | [Big Green Pillow](http://www.biggreenpillow.com) |
-|   07   | Big Moxi Games          | Porto Alegre         |   RS   | [Big Moxi](www.bigmoxi.com)                       |
-|   08   | BitCake Studio          | Rio de Janeiro       |   RJ   | [BitCake](www.bitcake.studio)                     |
-|   09   | Black River Studios     | Manaus               |   AM   | [Black River](blackriverstudios.net)              |
-|   10   | Black Zebra Studio      | Recife               |   PE   | [Black Zebra](www.artstation.com/blackzebrastudio)|
-|   11   | Cafundó Estúdio         | Florianópolis        |   SC   | [Cafundó](www.cafundo.tv)                         |
-|   12   | Caleta Gaming           | Florianópolis        |   SC   | [Caleta](www.caletagaming.com)                    |
-|   13   | Cat Nigiri              | Florianópolis        |   SC   | [Cat Nigiri](www.catnigiri.com)                   |
-|   14   | Cupcake Entertainment   | Porto Alegre         |   RS   | [Cupcake](cupcakese.com)                          |
-|   15   | Digital Synapsis        | São José dos Campos  |   SP   | [Digital Synapsis](digitalsynapsis.com.br)        |
-|   16   | Diorama Digital         | Recife               |   PE   | [Diorama](www.dioramadigital.com)                 |
-|   17   | Double Dash Studios     | Rio de Janeiro       |   RJ   | [Double Dash](www.doubledashstudios.com)          |
-|   18   | Dumativa                | Rio de Janeiro       |   RJ   | [Dumativa](http://www.dumativa.com.br)            |
-|   18   | DX Gameworks            | Manaus               |   AM   | [DX](dxgameworks.com)                             |
-|   18   | Dyxel Gaming            | São Paulo            |   SP   | [Dyxel](https://linktr.ee/dyxel)                             |
-|   19   | Epopeia Games           | Porto Alegre         |   RS   | [Epopeia](www.epopeiagames.com)                   |
-|   20   | Fanatee                 | São Paulo            |   SP   | [Fanatee](www.fanatee.com)                        |
-|   21   | Fire Horse Studio       | São Paulo            |   SP   | [Fire Horse](www.firehorse.com.br)                |
-|   22   | Firecast Studio         | Rio de Janeiro       |   RJ   | [Firecast](firecaststudio.com)                    |
-|   23   | Flipstar Game Studio    | Florianópolis        |   SC   | [Flipstar](flipstar.com.br)                       |
-|   24   | Flux Games              | São Paulo            |   SP   | [Flux](www.flux.games)                            |
-|   25   | Gazeus Games            | Rio de Janeiro       |   RJ   | [Gazeus](www.gazeus.com)                          |
-|   26   | Glitch Factory          | Brasília             |   DF   | [Glitch Factory](theglitchfactory.com.br)         |
-|   27   | Hermit Crab Game Studio | Porto Alegre         |   RS   | [Hermit Crab](www.hermitcrabstudio.com)           |
-|   28   | Hoplon                  | Florianópolis        |   SC   | [Hoplon](www.hoplon.com)                          |
-|   29   | Hydra Games             | Florianópolis        |   SC   | [Hydra](www.hydragames.com.br)                    |
-|   30   | IMGNATION Studios       | Santa Maria          |   RS   | [IMGNATION](imgnation.com.br)                     |
-|   31   | INSANE                  | São Paulo            |   SP   | [INSANE](www.insa.ne)                             |
-|   32   | Izyplay Game Studio     | Pelotas              |   RS   | [Izyplay](www.izyplay.com.br)                     |
-|   33   | JoyMasher               | Curitiba             |   PR   | [JoyMasher](joymasher.com)                        |
-|   34   | Kinship Entertainment   | São Paulo            |   SP   | [Kinship](kinship.dev)                            |
-|   35   | Kokku                   | Recife               |   PE   | [Kokku](kokku.com.br)                             |
-|   36   | Level Up Latam          | São Paulo            |   SP   | [LevelUp](leveluplatam.com)                       |
-|   37   | Long Hat House          | Belo Horizonte       |   MG   | [Long Hat](longhathouse.com)                      |
-|   38   | Lumen Games             | Aracajú              |   SE   | [Lumen](lumen.games)                              |
-|   38   | Luski Game Studio       | São Paulo            |   SP   | [Luski](www.luskigamestudio.com)                              |
-|   39   | Mad Mimic Interactive   | São Paulo            |   SP   | [Mad Mimic](www.madmimic.com)                     |
-|   40   | Manifesto Games         | Recife               |   PE   | [Manifesto](manifestogames.com)                   |
-|   41   | MNSTR Studio            | São Paulo            |   SP   | [MNSTR](www.mnstrstudio.com)                      |
-|   42   | Monomyto Studio         | Campo Grande         |   MS   | [Monomyto](www.monomyto.com)                      |
-|   42   | Nano Knight Studio      | São Paulo            |   SP   | [Nano Knight](https://www.nanoknight.com.br)                      |
-|   43   | Oktagon Games           | Londrina             |   PR   | [Oktagon](www.oktagon.com.br)                     |
-|   44   | Orbit Studio            | São Paulo            |   SP   | [Orbit](orbitstudio.com.br)                       |
-|   45   | Orube Game Studio       | Niterói              |   RJ   | [Orube](www.orubegamestudio.com/website)          |
-|   46   | OTA IMON Studio         | Completamente remoto |   SP   | [OTA IMON](beacons.ai/otaimon)                    |
-|   47   | Petit Fabrik            | Manaus               |   AM   | [Petit Fabrik](www.petitfabrik.com)               |
-|   48   | Pipa Studios            | São Paulo            |   SP   | [Pipa](pipastudios.com)                           |
-|   49   | PlayLearn               | São Paulo            |   SP   | [PlayLearn](www.playlearn.com.br)                 |
-|   50   | PUGA Studios            | Recife               |   PE   | [PUGA](pugastudios.com)                           |
-|   51   | PulsaTrix Studios       | Bela Vista           |   SP   | [PulsaTrix](www.pulsatrixstudios.com)             |
-|   52   | QUByte Interactive      | São Paulo            |   SP   | [QUByte](www.qubyteinteractive.com)               |
-|   53   | Rockhead Studios        | Porto Alegre         |   RS   | [Rockhead](rockheadgames.com)                     |
-|   54   | Rogue Snail             | Completamente remoto |   --   | [RogueSnail](www.roguesnail.com)                  |
-|   55   | Seize Studios           | Brasília             |   DF   | [Seize](www.seizestudios.com)                     |
-|   56   | Skullfish Studios       | São Paulo            |   SP   | [Skullfish](skullfishstudios.com)                 |
-|   57   | SouthLogic Studios      | Porto Alegre         |   RS   | [Southlogic](southlogic.com)                      |
-|   58   | Space Sheep Games       | São Paulo            |   SP   | [Space Sheep](spacesheepgames.com)                |
-|   59   | Tapps Games             | São Paulo            |   SP   | [Tapps](tappsgames.com)                           |
-|   60   | Umbu Games              | Belo Horizonte       |   MG   | [Umbu](umbugames.com)                             |
-|   61   | Webcore Games           | São Paulo            |   SP   | [Webcore](www.webcoregames.com)                   |
-|   62   | Wildlife Studios        | São Paulo            |   SP   | [Wildlife](wildlifestudios.com)                   |
-|   63   | Wondernaut Studio       | Porto Alegre         |   RS   | [Wondernaut](wondernaut.studio)                   |
-|   64   | Yellow Panda            | Balneáreo Camburiú   |   SC   | [Yellow Panda](www.yellowpanda.games)             |
-|   65   | Yupi Studios            | João Pessoa          |   PB   | [Yupi](yupistudios.com)                           |
+|   08   | Big Moxi Games          | Porto Alegre         |   RS   | [Big Moxi](www.bigmoxi.com)                       |
+|   09   | BitCake Studio          | Rio de Janeiro       |   RJ   | [BitCake](www.bitcake.studio)                     |
+|   10   | Black River Studios     | Manaus               |   AM   | [Black River](blackriverstudios.net)              |
+|   11   | Black Zebra Studio      | Recife               |   PE   | [Black Zebra](www.artstation.com/blackzebrastudio)|
+|   12   | Bragi Estúdios          | Salvador             |   BA   | [Bragi](bragiestudios.com)                        |
+|   13   | Cafundó Estúdio         | Florianópolis        |   SC   | [Cafundó](www.cafundo.tv)                         |
+|   14   | Caleta Gaming           | Florianópolis        |   SC   | [Caleta](www.caletagaming.com)                    |
+|   15   | Cat Nigiri              | Florianópolis        |   SC   | [Cat Nigiri](www.catnigiri.com)                   |
+|   16   | Cupcake Entertainment   | Porto Alegre         |   RS   | [Cupcake](cupcakese.com)                          |
+|   17   | Demerara Games          | Natal                |   RN   | [Demerara](http://demerara.games)                          |
+|   18   | Digital Synapsis        | São José dos Campos  |   SP   | [Digital Synapsis](digitalsynapsis.com.br)        |
+|   19   | Diorama Digital         | Recife               |   PE   | [Diorama](www.dioramadigital.com)                 |
+|   20   | Double Dash Studios     | Rio de Janeiro       |   RJ   | [Double Dash](www.doubledashstudios.com)          |
+|   21   | Dragonroll Studio       | São Paulo            |   SP   | [Dragonroll](https://dragonroll.dev)          |
+|   22   | Dumativa                | Rio de Janeiro       |   RJ   | [Dumativa](http://www.dumativa.com.br)            |
+|   23   | DX Gameworks            | Manaus               |   AM   | [DX](dxgameworks.com)                             |
+|   24   | Dyxel Gaming            | São Paulo            |   SP   | [Dyxel](https://linktr.ee/dyxel)                             |
+|   25   | Epopeia Games           | Porto Alegre         |   RS   | [Epopeia](www.epopeiagames.com)                   |
+|   26   | Fanatee                 | São Paulo            |   SP   | [Fanatee](www.fanatee.com)                        |
+|   27   | Fire Horse Studio       | São Paulo            |   SP   | [Fire Horse](www.firehorse.com.br)                |
+|   28   | Firecast Studio         | Rio de Janeiro       |   RJ   | [Firecast](firecaststudio.com)                    |
+|   29   | Flipstar Game Studio    | Florianópolis        |   SC   | [Flipstar](flipstar.com.br)                       |
+|   30   | Flux Games              | São Paulo            |   SP   | [Flux](www.flux.games)                            |
+|   31   | Gazeus Games            | Rio de Janeiro       |   RJ   | [Gazeus](www.gazeus.com)                          |
+|   32   | Glitch Factory          | Brasília             |   DF   | [Glitch Factory](theglitchfactory.com.br)         |
+|   33   | Hermit Crab Game Studio | Porto Alegre         |   RS   | [Hermit Crab](www.hermitcrabstudio.com)           |
+|   34   | HeroCraft               | ???                  |   --   | [HeroCraft](http://www.herocraft.com)           |
+|   35   | Hoplon                  | Florianópolis        |   SC   | [Hoplon](www.hoplon.com)                          |
+|   36   | Hydra Games             | Florianópolis        |   SC   | [Hydra](www.hydragames.com.br)                    |
+|   37   | IMGNATION Studios       | Santa Maria          |   RS   | [IMGNATION](imgnation.com.br)                     |
+|   38   | INSANE                  | São Paulo            |   SP   | [INSANE](www.insa.ne)                             |
+|   39   | Izyplay Game Studio     | Pelotas              |   RS   | [Izyplay](www.izyplay.com.br)                     |
+|   40   | JoyMasher               | Curitiba             |   PR   | [JoyMasher](joymasher.com)                        |
+|   41   | Kinship Entertainment   | São Paulo            |   SP   | [Kinship](kinship.dev)                            |
+|   42   | Kokku                   | Recife               |   PE   | [Kokku](kokku.com.br)                             |
+|   43   | Level Up Latam          | São Paulo            |   SP   | [LevelUp](leveluplatam.com)                       |
+|   44   | Long Hat House          | Belo Horizonte       |   MG   | [Long Hat](longhathouse.com)                      |
+|   45   | Lumen Games             | Aracajú              |   SE   | [Lumen](lumen.games)                              |
+|   46   | Lumo Entertainment      | Fortaleza            |   CE   | [Lumo](https://www.lumoentertainment.com/)                              |
+|   47   | Luski Game Studio       | São Paulo            |   SP   | [Luski](www.luskigamestudio.com)                              |
+|   48   | Mad Mimic Interactive   | São Paulo            |   SP   | [Mad Mimic](www.madmimic.com)                     |
+|   49   | Main Leaf Games         | Jacareí              |   SP   | [Main Leaf](http://www.mainleaf.com)                     |
+|   50   | Manifesto Games         | Recife               |   PE   | [Manifesto](manifestogames.com)                   |
+|   51   | MNSTR Studio            | São Paulo            |   SP   | [MNSTR](www.mnstrstudio.com)                      |
+|   52   | MobJoy Games            | Campinas             |   SP   | [MobJoy](http://www.mobjoygames.com)                      |
+|   53   | Monomyto Studio         | Campo Grande         |   MS   | [Monomyto](www.monomyto.com)                      |
+|   54   | Nano Knight Studio      | São Paulo            |   SP   | [Nano Knight](https://www.nanoknight.com.br)                      |
+|   55   | Oktagon Games           | Londrina             |   PR   | [Oktagon](www.oktagon.com.br)                     |
+|   56   | Orbit Studio            | São Paulo            |   SP   | [Orbit](orbitstudio.com.br)                       |
+|   57   | Orube Game Studio       | Niterói              |   RJ   | [Orube](www.orubegamestudio.com/website)          |
+|   58   | OTA IMON Studio         | Completamente remoto |   SP   | [OTA IMON](beacons.ai/otaimon)                    |
+|   59   | Painful Smile           | Porto Alegre         |   RS   | [Painful Smile](http://www.painfulsmile.com.br)                    |
+|   60   | Petit Fabrik            | Manaus               |   AM   | [Petit Fabrik](www.petitfabrik.com)               |
+|   61   | Pipa Studios            | São Paulo            |   SP   | [Pipa](pipastudios.com)                           |
+|   62   | PlayLearn               | São Paulo            |   SP   | [PlayLearn](www.playlearn.com.br)                 |
+|   63   | PUGA Studios            | Recife               |   PE   | [PUGA](pugastudios.com)                           |
+|   64   | PulsaTrix Studios       | Bela Vista           |   SP   | [PulsaTrix](www.pulsatrixstudios.com)             |
+|   65   | QUByte Interactive      | São Paulo            |   SP   | [QUByte](www.qubyteinteractive.com)               |
+|   66   | Rockhead Studios        | Porto Alegre         |   RS   | [Rockhead](rockheadgames.com)                     |
+|   67   | Rogue Snail             | Completamente remoto |   --   | [RogueSnail](www.roguesnail.com)                  |
+|   68   | Seize Studios           | Brasília             |   DF   | [Seize](www.seizestudios.com)                     |
+|   69   | Skullfish Studios       | São Paulo            |   SP   | [Skullfish](skullfishstudios.com)                 |
+|   70   | SouthLogic Studios      | Porto Alegre         |   RS   | [Southlogic](southlogic.com)                      |
+|   71   | Space Sheep Games       | São Paulo            |   SP   | [Space Sheep](spacesheepgames.com)                |
+|   72   | Tapps Games             | São Paulo            |   SP   | [Tapps](tappsgames.com)                           |
+|   73   | Triplano Games          | Porto Alegre         |   RS   | [Triplano](https://triplano.games/)                           |
+|   74   | Umbu Games              | Belo Horizonte       |   MG   | [Umbu](umbugames.com)                             |
+|   75   | Vortex Indie Games      | Completamente Remoto |   --   | [Vortex](https://vortexindie.itch.io/)                             |
+|   76   | Webcore Games           | São Paulo            |   SP   | [Webcore](www.webcoregames.com)                   |
+|   77   | Wildlife Studios        | São Paulo            |   SP   | [Wildlife](wildlifestudios.com)                   |
+|   78   | Wondernaut Studio       | Porto Alegre         |   RS   | [Wondernaut](wondernaut.studio)                   |
+|   79   | Yellow Panda            | Balneáreo Camburiú   |   SC   | [Yellow Panda](www.yellowpanda.games)             |
+|   80   | Yupi Studios            | João Pessoa          |   PB   | [Yupi](yupistudios.com)                           |
 
 </div>
 
