@@ -1,12 +1,9 @@
-<!--- HTML tags just to align items --->
 <h1 align="center">
     Estúdios Brasileiros
 </h1>
 <h4 align="center">
     Alguns estúdios de jogos e entretenimento e oportunidades na área.
 <h4>
-
-<!-- A B C D E F G H I J K L M N O P Q R S T U V W X Y Z -->
 
 ## Sobre:
 
@@ -100,11 +97,6 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 ---
 
 ## Confira também:
-
-* Estúdios de outras regiões:
-    * [Estúdios Asiáticos](pt-br/regiões/estúdios-asiáticos.md)
-    * [Estúdios Europeus](pt-br/regiões/estúdios-europeus.md)
-    * [Estúdios Norte-Americanos](pt-br/regiões/estúdios-norte_americanos.md)
 
 * Áreas populares do desenvolvimento de games:
     * [Áreas de atuação](pt-br/áreas/áreas-de-atuação.md)
