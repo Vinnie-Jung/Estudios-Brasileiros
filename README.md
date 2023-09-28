@@ -24,55 +24,55 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 
 ### Lista de Estúdios Brasileiros
 
-<!-- Arrumar  Asantee | Black River | Cafundó | Cupcake | -->
+<!-- Arrumar   Black River | Cafundó | Cupcake | Fire Horse | Hermit | Kinship | -->
 
-| Índice |         Estúdio         |         Cidade       | Estado |                           Site                            |
-|:------:|:------------------------|:---------------------|:------:|:----------------------------------------------------------|
-|   01   | Afterverse              | Campinas             |   SP   | [Afterverse](https://afterverse.com/pt)                   |
-|   02   | Aiyra                   | Niterói              |   RJ   | [Aiyra](https://www.aiyra.com/site/)                      |
-|   03   | Aquiris Game Studio     | Porto Alegre         |   RS   | [Aquiris](https://www.aquiris.com.br/)                    |
-|   04   | Aoca Game Lab           | Salvador             |   BA   | [Aoca](https://www.aocagamelab.games/)                    |
-|   05   | Asantee Games           | Campo Grande         |   MS   | [Asantee](http://asanteegames.com.br)                     |
-|   06   | Behold Studios          | Brasília             |   DF   | [Behold](https://www.beholdstudios.com.br/)               |
-|   07   | Big Green Pillow        | São Paulo            |   SP   | [Big Green Pillow](http://www.biggreenpillow.com)         |
-|   08   | Big Moxi Games          | Porto Alegre         |   RS   | [Big Moxi](https://www.bigmoxi.com/)                      |
-|   09   | BitCake Studio          | Rio de Janeiro       |   RJ   | [BitCake](https://www.bitcake.studio/)                    |
-|   10   | BiwO Studios            | Fortaleza            |   CE   | [BiwO](https://linktr.ee/biwostudios/)                    |
-|   11   | Black River Studios     | Manaus               |   AM   | [Black River](blackriverstudios.net)                      |    
-|   12   | Black Zebra Studio      | Recife               |   PE   | [Black Zebra](https://www.artstation.com/blackzebrastudio)|
-|   13   | Bragi Estúdios          | Salvador             |   BA   | [Bragi](http://bragiestudios.com/)                        |
-|   14   | Cafundó Estúdio         | Florianópolis        |   SC   | [Cafundó](http://www.cafundo.tv)                          |
-|   15   | Caleta Gaming           | Florianópolis        |   SC   | [Caleta](https://caletagaming.com/)                       |
-|   16   | Cat Nigiri              | Florianópolis        |   SC   | [Cat Nigiri](http://www.catnigiri.com)                    |
-|   17   | Cupcake Entertainment   | Porto Alegre         |   RS   | [Cupcake](cupcakese.com)                                  |
-|   18   | Demerara Games          | Natal                |   RN   | [Demerara](http://demerara.games)                         |
-|   19   | Digital Synapsis        | São José dos Campos  |   SP   | [Digital Synapsis](https://digitalsynapsis.com.br/home)   |
-|   20   | Diorama Digital         | Recife               |   PE   | [Diorama](https://dioramadigital.com/web/)                |
-|   21   | Double Dash Studios     | Rio de Janeiro       |   RJ   | [Double Dash](https://www.doubledashstudios.com/)         |
-|   22   | Dragonroll Studio       | São Paulo            |   SP   | [Dragonroll](https://dragonroll.dev/)                     |
-|   23   | Dumativa                | Rio de Janeiro       |   RJ   | [Dumativa](http://www.dumativa.com.br/)                   |
-|   24   | DX Gameworks            | Manaus               |   AM   | [DX](https://dxgameworks.com/)                            |
-|   25   | Dyxel Gaming            | São Paulo            |   SP   | [Dyxel](https://linktr.ee/dyxel)                          |
-|   26   | Epopeia Games           | Porto Alegre         |   RS   | [Epopeia](https://www.epopeiagames.com/)                  |
-|   27   | Fanatee                 | São Paulo            |   SP   | [Fanatee](https://fanatee.com/)                           |
-|   28   | Fire Horse Studio       | São Paulo            |   SP   | [Fire Horse](www.firehorse.com.br)                |
-|   29   | Firecast Studio         | Rio de Janeiro       |   RJ   | [Firecast](firecaststudio.com)                    |
-|   30   | Flipstar Game Studio    | Florianópolis        |   SC   | [Flipstar](flipstar.com.br)                       |
-|   31   | Flux Games              | São Paulo            |   SP   | [Flux](www.flux.games)                            |
-|   32   | Gazeus Games            | Rio de Janeiro       |   RJ   | [Gazeus](www.gazeus.com)                          |
-|   33   | Glitch Factory          | Brasília             |   DF   | [Glitch Factory](theglitchfactory.com.br)         |
-|   34   | Hermit Crab Game Studio | Porto Alegre         |   RS   | [Hermit Crab](www.hermitcrabstudio.com)           |
-|   35   | HeroCraft               | ???                  |   --   | [HeroCraft](http://www.herocraft.com)           |
-|   36   | Hoplon                  | Florianópolis        |   SC   | [Hoplon](www.hoplon.com)                          |
-|   37   | Hydra Games             | Florianópolis        |   SC   | [Hydra](www.hydragames.com.br)                    |
-|   38   | IMGNATION Studios       | Santa Maria          |   RS   | [IMGNATION](imgnation.com.br)                     |
-|   39   | INSANE                  | São Paulo            |   SP   | [INSANE](www.insa.ne)                             |
-|   40   | Izyplay Game Studio     | Pelotas              |   RS   | [Izyplay](www.izyplay.com.br)                     |
-|   41   | JoyMasher               | Curitiba             |   PR   | [JoyMasher](joymasher.com)                        |
-|   42   | Kinship Entertainment   | São Paulo            |   SP   | [Kinship](kinship.dev)                            |
-|   43   | Kokku                   | Recife               |   PE   | [Kokku](kokku.com.br)                             |
-|   44   | Level Up Latam          | São Paulo            |   SP   | [LevelUp](leveluplatam.com)                       |
-|   45   | Long Hat House          | Belo Horizonte       |   MG   | [Long Hat](longhathouse.com)                      |
+| Índice |         Estúdio         |         Cidade       | Estado |                                 Site                                  |
+|:------:|:------------------------|:---------------------|:------:|:----------------------------------------------------------------------|
+|   01   | Afterverse              | Campinas             |   SP   | [Afterverse](https://afterverse.com/pt)                               |
+|   02   | Aiyra                   | Niterói              |   RJ   | [Aiyra](https://www.aiyra.com/site/)                                  |
+|   03   | Aquiris Game Studio     | Porto Alegre         |   RS   | [Aquiris](https://www.aquiris.com.br/)                                |
+|   04   | Aoca Game Lab           | Salvador             |   BA   | [Aoca](https://www.aocagamelab.games/)                                |
+|   05   | Asantee Games           | Campo Grande         |   MS   | [Asantee](http://asanteegames.com.br)                                 |
+|   06   | Behold Studios          | Brasília             |   DF   | [Behold](https://www.beholdstudios.com.br/)                           |
+|   07   | Big Green Pillow        | São Paulo            |   SP   | [Big Green Pillow](http://www.biggreenpillow.com)                     |
+|   08   | Big Moxi Games          | Porto Alegre         |   RS   | [Big Moxi](https://www.bigmoxi.com/)                                  |
+|   09   | BitCake Studio          | Rio de Janeiro       |   RJ   | [BitCake](https://www.bitcake.studio/)                                |
+|   10   | BiwO Studios            | Fortaleza            |   CE   | [BiwO](https://linktr.ee/biwostudios/)                                |
+|   11   | Black River Studios     | Manaus               |   AM   | [Black River](http://blackriverstudios.net)                                  |    
+|   12   | Black Zebra Studio      | Recife               |   PE   | [Black Zebra](https://www.artstation.com/blackzebrastudio)            |
+|   13   | Bragi Estúdios          | Salvador             |   BA   | [Bragi](http://bragiestudios.com/)                                    |
+|   14   | Cafundó Estúdio         | Florianópolis        |   SC   | [Cafundó](http://www.cafundo.tv)                                      |
+|   15   | Caleta Gaming           | Florianópolis        |   SC   | [Caleta](https://caletagaming.com/)                                   |
+|   16   | Cat Nigiri              | Florianópolis        |   SC   | [Cat Nigiri](http://www.catnigiri.com)                                |
+|   17   | Cupcake Entertainment   | Porto Alegre         |   RS   | [Cupcake](cupcakese.com)                                              |
+|   18   | Demerara Games          | Natal                |   RN   | [Demerara](http://demerara.games)                                     |
+|   19   | Digital Synapsis        | São José dos Campos  |   SP   | [Digital Synapsis](https://digitalsynapsis.com.br/home)               |
+|   20   | Diorama Digital         | Recife               |   PE   | [Diorama](https://dioramadigital.com/web/)                            |
+|   21   | Double Dash Studios     | Rio de Janeiro       |   RJ   | [Double Dash](https://www.doubledashstudios.com/)                     |
+|   22   | Dragonroll Studio       | São Paulo            |   SP   | [Dragonroll](https://dragonroll.dev/)                                 |
+|   23   | Dumativa                | Rio de Janeiro       |   RJ   | [Dumativa](http://www.dumativa.com.br/)                               |
+|   24   | DX Gameworks            | Manaus               |   AM   | [DX](https://dxgameworks.com/)                                        |
+|   25   | Dyxel Gaming            | São Paulo            |   SP   | [Dyxel](https://linktr.ee/dyxel)                                      |
+|   26   | Epopeia Games           | Porto Alegre         |   RS   | [Epopeia](https://www.epopeiagames.com/)                              |
+|   27   | Fanatee                 | São Paulo            |   SP   | [Fanatee](https://fanatee.com/)                                       |
+|   28   | Fire Horse Studio       | São Paulo            |   SP   | [Fire Horse](www.firehorse.com.br)                                    |
+|   29   | Firecast Studio         | Rio de Janeiro       |   RJ   | [Firecast](https://firecaststudio.com/)                               |
+|   30   | Flipstar Game Studio    | Florianópolis        |   SC   | [Flipstar](https://flipstar.com.br/index.php/en/flipstar-games-home/) |
+|   31   | Flux Games              | São Paulo            |   SP   | [Flux](https://www.flux.games/)                                       |
+|   32   | Gazeus Games            | Rio de Janeiro       |   RJ   | [Gazeus](https://www.gazeus.com/en/)                                  |
+|   33   | Glitch Factory          | Brasília             |   DF   | [Glitch Factory](https://theglitchfactory.com.br/)                    |
+|   34   | Hermit Crab Game Studio | Porto Alegre         |   RS   | [Hermit Crab](http://www.hermitcrabstudio.com)                        |
+|   35   | HeroCraft               | ???                  |   --   | [HeroCraft](https://herocraft.com/)                                   |
+|   36   | Hoplon                  | Florianópolis        |   SC   | [Hoplon](https://www.hoplon.com/site/)                                |
+|   37   | Hydra Games             | Florianópolis        |   SC   | [Hydra](https://www.hydragames.com.br/)                               |
+|   38   | IMGNATION Studios       | Santa Maria          |   RS   | [IMGNATION](https://imgnationstudios.tumblr.com/)                     |
+|   39   | INSANE                  | São Paulo            |   SP   | [INSANE](https://www.insa.ne/)                                        |
+|   40   | Izyplay Game Studio     | Pelotas              |   RS   | [Izyplay](https://www.izyplay.com.br/)                                |
+|   41   | JoyMasher               | Curitiba             |   PR   | [JoyMasher](https://joymasher.com/)                                   |
+|   42   | Kinship Entertainment   | São Paulo            |   SP   | [Kinship](https://kinship.dev)                                        |
+|   43   | Kokku                   | Recife               |   PE   | [Kokku](https://kokku.com.br/)                                        |
+|   44   | Level Up Latam          | São Paulo            |   SP   | [LevelUp](https://br.leveluplatam.com/)                               |
+|   45   | Long Hat House          | Belo Horizonte       |   MG   | [Long Hat](http://longhathouse.com)                                   |
 |   46   | Lumen Games             | Aracajú              |   SE   | [Lumen](lumen.games)                              |
 |   47   | Lumo Entertainment      | Fortaleza            |   CE   | [Lumo](https://www.lumoentertainment.com/)                              |
 |   48   | Luski Game Studio       | São Paulo            |   SP   | [Luski](www.luskigamestudio.com)                              |
