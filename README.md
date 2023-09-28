@@ -24,7 +24,7 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 
 ### Lista de Estúdios Brasileiros
 
-<!-- Arrumar   Black River | Cafundó | Cupcake | Fire Horse | Hermit | Kinship | -->
+<!-- Arrumar   Black River | Cupcake | Fire Horse | Hermit | Kinship | -->
 
 | Índice |         Estúdio         |         Cidade       | Estado |                                 Site                                  |
 |:------:|:------------------------|:---------------------|:------:|:----------------------------------------------------------------------|
@@ -44,7 +44,7 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 |   14   | Cafundó Estúdio         | Florianópolis        |   SC   | [Cafundó](http://www.cafundo.tv)                                      |
 |   15   | Caleta Gaming           | Florianópolis        |   SC   | [Caleta](https://caletagaming.com/)                                   |
 |   16   | Cat Nigiri              | Florianópolis        |   SC   | [Cat Nigiri](http://www.catnigiri.com)                                |
-|   17   | Cupcake Entertainment   | Porto Alegre         |   RS   | [Cupcake](cupcakese.com)                                              |
+|   17   | Cupcake Entertainment   | Porto Alegre         |   RS   | [Cupcake](http://cupcakese.com)                                              |
 |   18   | Demerara Games          | Natal                |   RN   | [Demerara](http://demerara.games)                                     |
 |   19   | Digital Synapsis        | São José dos Campos  |   SP   | [Digital Synapsis](https://digitalsynapsis.com.br/home)               |
 |   20   | Diorama Digital         | Recife               |   PE   | [Diorama](https://dioramadigital.com/web/)                            |
