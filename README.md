@@ -55,7 +55,7 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 |   25   | Dyxel Gaming            | São Paulo            |   SP   | [Dyxel](https://linktr.ee/dyxel)                                      |
 |   26   | Epopeia Games           | Porto Alegre         |   RS   | [Epopeia](https://www.epopeiagames.com/)                              |
 |   27   | Fanatee                 | São Paulo            |   SP   | [Fanatee](https://fanatee.com/)                                       |
-|   28   | Fire Horse Studio       | São Paulo            |   SP   | [Fire Horse](www.firehorse.com.br)                                    |
+|   28   | Fire Horse Studio       | São Paulo            |   SP   | [Fire Horse](http://www.firehorse.com.br)                                    |
 |   29   | Firecast Studio         | Rio de Janeiro       |   RJ   | [Firecast](https://firecaststudio.com/)                               |
 |   30   | Flipstar Game Studio    | Florianópolis        |   SC   | [Flipstar](https://flipstar.com.br/index.php/en/flipstar-games-home/) |
 |   31   | Flux Games              | São Paulo            |   SP   | [Flux](https://www.flux.games/)                                       |
