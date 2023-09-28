@@ -24,35 +24,37 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 
 ### Lista de Estúdios Brasileiros
 
-| Índice |         Estúdio         |         Cidade       | Estado |                       Site                        |
-|:------:|:------------------------|:---------------------|:------:|:--------------------------------------------------|
-|   01   | Afterverse              | Campinas             |   SP   | [Afterverse](afterverse.com)                      |
-|   02   | Aiyra                   | Niterói              |   RJ   | [Aiyra](www.aiyra.com)                            |
-|   03   | Aquiris Game Studio     | Porto Alegre         |   RS   | [Aquiris](www.aquiris.com.br)                     |
-|   04   | Aoca Game Lab           | Salvador             |   BA   | [Aoca](aocagamelab.games)                         |
-|   05   | Asantee Games           | Campo Grande         |   MS   | [Asantee](asanteegames.com.br)                    |
-|   06   | Behold Studios          | Brasília             |   DF   | [Behold](www.beholdstudios.com.br)                |
-|   07   | Big Green Pillow        | São Paulo            |   SP   | [Big Green Pillow](http://www.biggreenpillow.com) |
-|   08   | Big Moxi Games          | Porto Alegre         |   RS   | [Big Moxi](www.bigmoxi.com)                       |
-|   09   | BitCake Studio          | Rio de Janeiro       |   RJ   | [BitCake](www.bitcake.studio)                     |
-|   10   | BiwO Studios            | Fortaleza            |   CE   | [BiwO](https://linktr.ee/biwostudios/)                     |
-|   11   | Black River Studios     | Manaus               |   AM   | [Black River](blackriverstudios.net)              |
-|   12   | Black Zebra Studio      | Recife               |   PE   | [Black Zebra](www.artstation.com/blackzebrastudio)|
-|   13   | Bragi Estúdios          | Salvador             |   BA   | [Bragi](bragiestudios.com)                        |
-|   14   | Cafundó Estúdio         | Florianópolis        |   SC   | [Cafundó](www.cafundo.tv)                         |
-|   15   | Caleta Gaming           | Florianópolis        |   SC   | [Caleta](www.caletagaming.com)                    |
-|   16   | Cat Nigiri              | Florianópolis        |   SC   | [Cat Nigiri](www.catnigiri.com)                   |
-|   17   | Cupcake Entertainment   | Porto Alegre         |   RS   | [Cupcake](cupcakese.com)                          |
-|   18   | Demerara Games          | Natal                |   RN   | [Demerara](http://demerara.games)                          |
-|   19   | Digital Synapsis        | São José dos Campos  |   SP   | [Digital Synapsis](digitalsynapsis.com.br)        |
-|   20   | Diorama Digital         | Recife               |   PE   | [Diorama](www.dioramadigital.com)                 |
-|   21   | Double Dash Studios     | Rio de Janeiro       |   RJ   | [Double Dash](www.doubledashstudios.com)          |
-|   22   | Dragonroll Studio       | São Paulo            |   SP   | [Dragonroll](https://dragonroll.dev)          |
-|   23   | Dumativa                | Rio de Janeiro       |   RJ   | [Dumativa](http://www.dumativa.com.br)            |
-|   24   | DX Gameworks            | Manaus               |   AM   | [DX](dxgameworks.com)                             |
-|   25   | Dyxel Gaming            | São Paulo            |   SP   | [Dyxel](https://linktr.ee/dyxel)                             |
-|   26   | Epopeia Games           | Porto Alegre         |   RS   | [Epopeia](www.epopeiagames.com)                   |
-|   27   | Fanatee                 | São Paulo            |   SP   | [Fanatee](www.fanatee.com)                        |
+<!-- Arrumar  Asantee | Black River | Cafundó | Cupcake | -->
+
+| Índice |         Estúdio         |         Cidade       | Estado |                           Site                            |
+|:------:|:------------------------|:---------------------|:------:|:----------------------------------------------------------|
+|   01   | Afterverse              | Campinas             |   SP   | [Afterverse](https://afterverse.com/pt)                   |
+|   02   | Aiyra                   | Niterói              |   RJ   | [Aiyra](https://www.aiyra.com/site/)                      |
+|   03   | Aquiris Game Studio     | Porto Alegre         |   RS   | [Aquiris](https://www.aquiris.com.br/)                    |
+|   04   | Aoca Game Lab           | Salvador             |   BA   | [Aoca](https://www.aocagamelab.games/)                    |
+|   05   | Asantee Games           | Campo Grande         |   MS   | [Asantee](http://asanteegames.com.br)                     |
+|   06   | Behold Studios          | Brasília             |   DF   | [Behold](https://www.beholdstudios.com.br/)               |
+|   07   | Big Green Pillow        | São Paulo            |   SP   | [Big Green Pillow](http://www.biggreenpillow.com)         |
+|   08   | Big Moxi Games          | Porto Alegre         |   RS   | [Big Moxi](https://www.bigmoxi.com/)                      |
+|   09   | BitCake Studio          | Rio de Janeiro       |   RJ   | [BitCake](https://www.bitcake.studio/)                    |
+|   10   | BiwO Studios            | Fortaleza            |   CE   | [BiwO](https://linktr.ee/biwostudios/)                    |
+|   11   | Black River Studios     | Manaus               |   AM   | [Black River](blackriverstudios.net)                      |    
+|   12   | Black Zebra Studio      | Recife               |   PE   | [Black Zebra](https://www.artstation.com/blackzebrastudio)|
+|   13   | Bragi Estúdios          | Salvador             |   BA   | [Bragi](http://bragiestudios.com/)                        |
+|   14   | Cafundó Estúdio         | Florianópolis        |   SC   | [Cafundó](http://www.cafundo.tv)                          |
+|   15   | Caleta Gaming           | Florianópolis        |   SC   | [Caleta](https://caletagaming.com/)                       |
+|   16   | Cat Nigiri              | Florianópolis        |   SC   | [Cat Nigiri](http://www.catnigiri.com)                    |
+|   17   | Cupcake Entertainment   | Porto Alegre         |   RS   | [Cupcake](cupcakese.com)                                  |
+|   18   | Demerara Games          | Natal                |   RN   | [Demerara](http://demerara.games)                         |
+|   19   | Digital Synapsis        | São José dos Campos  |   SP   | [Digital Synapsis](https://digitalsynapsis.com.br/home)   |
+|   20   | Diorama Digital         | Recife               |   PE   | [Diorama](https://dioramadigital.com/web/)                |
+|   21   | Double Dash Studios     | Rio de Janeiro       |   RJ   | [Double Dash](https://www.doubledashstudios.com/)         |
+|   22   | Dragonroll Studio       | São Paulo            |   SP   | [Dragonroll](https://dragonroll.dev/)                     |
+|   23   | Dumativa                | Rio de Janeiro       |   RJ   | [Dumativa](http://www.dumativa.com.br/)                   |
+|   24   | DX Gameworks            | Manaus               |   AM   | [DX](https://dxgameworks.com/)                            |
+|   25   | Dyxel Gaming            | São Paulo            |   SP   | [Dyxel](https://linktr.ee/dyxel)                          |
+|   26   | Epopeia Games           | Porto Alegre         |   RS   | [Epopeia](https://www.epopeiagames.com/)                  |
+|   27   | Fanatee                 | São Paulo            |   SP   | [Fanatee](https://fanatee.com/)                           |
 |   28   | Fire Horse Studio       | São Paulo            |   SP   | [Fire Horse](www.firehorse.com.br)                |
 |   29   | Firecast Studio         | Rio de Janeiro       |   RJ   | [Firecast](firecaststudio.com)                    |
 |   30   | Flipstar Game Studio    | Florianópolis        |   SC   | [Flipstar](flipstar.com.br)                       |
