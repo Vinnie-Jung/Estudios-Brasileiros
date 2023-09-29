@@ -117,7 +117,7 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
 </div>
 
 ---
-
+<!-- >
 ## Confira também:
 
 * Áreas populares do desenvolvimento de games:
@@ -129,7 +129,9 @@ Existem diversos estúdios de jogos e entretenimento espalhados pelo território
     * [Brasil](pt-br/salários/brasil.md)
     * [Europa](pt-br/salários/europa.md)
 
-<div align="center">
+-->
+
+<div align="center"> 
 
 ## Contribuidores
 
